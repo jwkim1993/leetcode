@@ -18,5 +18,6 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 | 1 | [Invert Binary Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/) | [JAVA](./algorithms/java/Challenge_Invert_Binary_Tree.java), [Python](./algorithms/python/Challenge_Invert_Binary_Tree.py) |
+| 2 | [Delete Node in a Linked List](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3348/) | [JAVA](./algorithms/java/Challenge_Delete_Node_in_a_Linked_List.java), [Python](./algorithms/python/Challenge_Delete_Node_in_a_Linked_List.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
