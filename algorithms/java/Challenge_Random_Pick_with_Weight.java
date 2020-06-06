@@ -1,28 +1,19 @@
 class Solution {
-    Random random;
-    int N;
     int[] w;
-    
+    Random r;
     public Solution(int[] w) {
         this.w = w;
-        N = 0;
-        for(int weigth: w) {
-            N += weigth;
+        r = new Random();
+        for (int i = 1; i < w.length; i++) {
+            w[i] += w[i - 1];
         }
-        
-        random = new Random(System.currentTimeMillis());
     }
     
     public int pickIndex() {
-        int idx = random.nextInt(N);
-        
-        for(int i = 0; i < w.length; ++i) {
-            if(idx - w[i] < 0)
-                return i;
-            idx -= w[i];
-        }
-        
-        return w[w.length - 1];
+        int lastSum = w[w.length - 1];
+        int target = r.nextInt(lastSum) + 1;
+        int p = Arrays.binarySearch(w, target);
+        return p >= 0 ? p : -p - 1;
     }
 }
 
