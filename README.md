@@ -22,5 +22,6 @@ LeetCode
 | 3 | [Two City Scheduling](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3349/) | [JAVA](./algorithms/java/Challenge_Two_City_Scheduling.java), [Python](./algorithms/python/Challenge_Two_City_Scheduling.py) |
 | 4 | [Reverse String](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/) | [JAVA](./algorithms/java/Challenge_Reverse_String.java), [Python](./algorithms/python/Challenge_Reverse_String.py) |
 | 5 | [Random Pick with Weight](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3351/) | [JAVA](./algorithms/java/Challenge_Random_Pick_with_Weight.java), [Python](./algorithms/python/Challenge_Random_Pick_with_Weight.py) |
+| 6 | [Queue Reconstruction by Height](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3352/) | [JAVA](./algorithms/java/Challenge_Queue_Reconstruction_by_Height.java), [Python](./algorithms/python/Challenge_Queue_Reconstruction_by_Height.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
