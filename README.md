@@ -26,5 +26,6 @@ LeetCode
 | 7 | [Coin Change 2](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3353/) | [JAVA](./algorithms/java/Challenge_Coin_Change_2.java), [Python](./algorithms/python/Challenge_Coin_Change_2.py) |
 | 8 | [Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) | [JAVA](./algorithms/java/Challenge_Power_of_Two.java), [Python](./algorithms/python/Challenge_Power_of_Two.py) |
 | 9 | [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) | [JAVA](./algorithms/java/Challenge_Is_Subsequence.java), [Python](./algorithms/python/Challenge_Is_Subsequence.py) |
+| 10 | [Search Insert Position](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/) | [JAVA](./algorithms/java/Challenge_Search_Insert_Position.java), [Python](./algorithms/python/Challenge_Search_Insert_Position.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
