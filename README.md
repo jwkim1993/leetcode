@@ -27,5 +27,6 @@ LeetCode
 | 8 | [Power of Two](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/) | [JAVA](./algorithms/java/Challenge_Power_of_Two.java), [Python](./algorithms/python/Challenge_Power_of_Two.py) |
 | 9 | [Is Subsequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3355/) | [JAVA](./algorithms/java/Challenge_Is_Subsequence.java), [Python](./algorithms/python/Challenge_Is_Subsequence.py) |
 | 10 | [Search Insert Position](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3356/) | [JAVA](./algorithms/java/Challenge_Search_Insert_Position.java), [Python](./algorithms/python/Challenge_Search_Insert_Position.py) |
+| 11 | [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) | [JAVA](./algorithms/java/Challenge_Sort_Colors.java), [Python](./algorithms/python/Challenge_Sort_Colors.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
