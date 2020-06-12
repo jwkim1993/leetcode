@@ -1,30 +1,47 @@
 class RandomizedSet {
 
     private Map<Integer, Integer> storedData;
+    private List<Integer> dataList;
     private Random random;
     
     /** Initialize your data structure here. */
     public RandomizedSet() {
         storedData = new HashMap<>();
+        dataList = new ArrayList<>();
         random = new Random();
     }
     
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     public boolean insert(int val) {
-        boolean ret = storedData.get(val) != null ? false : true;
-        storedData.put(val, 1);
-        return ret;
+        if(storedData.get(val) != null)
+            return false;
+        
+        storedData.put(val, dataList.size());
+        dataList.add(val);
+        
+        return true;
     }
     
     /** Removes a value from the set. Returns true if the set contained the specified element. */
     public boolean remove(int val) {
-        return storedData.remove(val) != null ? true : false;
+        Integer idx = storedData.remove(val);
+        if(idx == null)
+            return false;
+        
+        int lastIdx = dataList.size() - 1;
+        if(idx != lastIdx) {
+            storedData.put(dataList.get(lastIdx), idx);
+            dataList.set(idx, dataList.get(lastIdx));
+        }
+        
+        dataList.remove(lastIdx);
+        
+        return true;
     }
     
     /** Get a random element from the set. */
     public int getRandom() {
-        int randIdx = random.nextInt(storedData.size());
-        return new ArrayList<Integer>(storedData.keySet()).get(randIdx);
+        return dataList.get(random.nextInt(dataList.size()));
     }
 }
 
