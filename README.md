@@ -30,5 +30,6 @@ LeetCode
 | 11 | [Sort Colors](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3357/) | [JAVA](./algorithms/java/Challenge_Sort_Colors.java), [Python](./algorithms/python/Challenge_Sort_Colors.py) |
 | 12 | [Insert Delete GetRandom O(1)](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/) | [JAVA](./algorithms/java/Challenge_Insert_Delete_GetRandomO1.java), [Python](./algorithms/python/Challenge_Insert_Delete_GetRandomO1.py) |
 | 13 | [Largest Divisible Subset](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/) | [JAVA](./algorithms/java/Challenge_Largest_Divisible_Subset.java), [Python](./algorithms/python/Challenge_Largest_Divisible_Subset.py) |
+| 14 | [Cheapest Flights Within K Stops](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/) | [JAVA](./algorithms/java/Challenge_Cheapest_Flights_Within_K_Stops.java), [Python](./algorithms/python/Challenge_Cheapest_Flights_Within_K_Stops.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
