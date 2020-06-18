@@ -36,5 +36,6 @@ LeetCode
 | 15 | [Search in a Binary Search Tree](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/) | [JAVA](./algorithms/java/Challenge_Search_in_a_Binary_Search_Tree.java), [Python](./algorithms/python/Challenge_Search_in_a_Binary_Search_Tree.py) |
 | 16 | [Validate IP Address](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/) | [JAVA](./algorithms/java/Challenge_Validate_IP_Address.java), [Python](./algorithms/python/Challenge_Validate_IP_Address.py) |
 | 17 | [Surrounded Regions](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3363/) | [JAVA](./algorithms/java/Challenge_Surrounded_Regions.java), [Python](./algorithms/python/Challenge_Surrounded_Regions.py) |
+| 18 | [H-Index II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/) | [JAVA](./algorithms/java/Challenge_H_Index2.java), [Python](./algorithms/python/Challenge_H_Index2.py) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
