@@ -39,5 +39,6 @@ LeetCode
 | 18 | [H-Index II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/) | [JAVA](./algorithms/java/Challenge_H_Index2.java), [Python](./algorithms/python/Challenge_H_Index2.py) |
 | 19 | [Longest Duplicate Substring](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/) | Not Solved |
 | 20 | [Permutation Sequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/) | [JAVA](./algorithms/java/Challenge_Permutation_Sequence.java), [Python](./algorithms/python/Challenge_Permutation_Sequence.py) |
+| 21 | [Dungeon Game](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) | [JAVA](./algorithms/java/Challenge_Dungeon_Game.java) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
