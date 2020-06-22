@@ -12,6 +12,7 @@ LeetCode
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [JAVA](./algorithms/java/1222_Queens_That_Can_Attack_the_King.java) |Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [Python](./algorithms/python/1314_Matrix_Block_Sum.py) |Medium|
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [JAVA](./algorithms/java/1409_Queries_on_a_Permutation_With_Key.java), [Python](./algorithms/python/1409_Queries_on_a_Permutation_With_Key.py) |Medium|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JAVA](./algorithms/java/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java) |EASY|
 
 
 ## Challenge
