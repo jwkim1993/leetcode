@@ -40,5 +40,7 @@ LeetCode
 | 19 | [Longest Duplicate Substring](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/) | Not Solved |
 | 20 | [Permutation Sequence](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/) | [JAVA](./algorithms/java/Challenge_Permutation_Sequence.java), [Python](./algorithms/python/Challenge_Permutation_Sequence.py) |
 | 21 | [Dungeon Game](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/) | [JAVA](./algorithms/java/Challenge_Dungeon_Game.java) |
+| 22 | [Single Number II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3368/) | [JAVA](./algorithms/java/Challenge_Single_Number_II.java) |
+| 23 | [Count Complete Tree Nodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/) | [JAVA](./algorithms/java/Challenge_Count_Complete_Tree_Nodes.java) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
