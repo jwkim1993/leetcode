@@ -7,6 +7,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [JAVA](./algorithms/java/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java) |Medium|
+|252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [JAVA](./algorithms/java/252_Meeting_Rooms.java) |Easy| 
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [JAVA](./algorithms/java/303_Range_Sum_Query_Immutable.java), [Python](./algorithms/python/303_Range_Sum_Query_Immutable.py) |Easy|
 |436|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/explore/interview/card/google/59/array-and-strings/436/) :lock: | [JAVA](./algorithms/java/436_Read_N_Characters_Given_Read4_Call_Multiple_times.java), [Python](./algorithms/python/436_Read_N_Characters_Given_Read4_Call_Multiple_times.py) |Hard|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [JAVA](./algorithms/java/1222_Queens_That_Can_Attack_the_King.java) |Medium|
