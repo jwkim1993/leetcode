@@ -47,5 +47,6 @@ LeetCode
 | 23 | [Count Complete Tree Nodes](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3369/) | [JAVA](./algorithms/java/Challenge_Count_Complete_Tree_Nodes.java) |
 | 24 | [Unique Binary Search Trees](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3370/) | [JAVA](./algorithms/java/Challenge_Unique_Binary_Search_Trees.java) |
 | 25 | [Find the Duplicate Number](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3371/) | [JAVA](./algorithms/java/Challenge_Find_the_Duplicate_Number.java) |
+| 26 | [Sum Root to Leaf Numbers](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3372/) | [JAVA](./algorithms/java/Challenge_Sum_Root_to_Leaf_Numbers.java) |
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
