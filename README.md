@@ -16,8 +16,15 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [JAVA](./algorithms/java/1409_Queries_on_a_Permutation_With_Key.java), [Python](./algorithms/python/1409_Queries_on_a_Permutation_With_Key.py) |Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JAVA](./algorithms/java/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java) |EASY|
 
-## June 2020 Challenge
+## July 2020 Challenge
 
+| # | Title | Solution |
+|---| ----- | -------- |
+| 1 | [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Arranging_Coins.java) |
+| 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Binary_Tree_Level_Order_Traversal_II.java) |
+
+
+## June 2020 Challenge
 
 | # | Title | Solution |
 |---| ----- | -------- |
