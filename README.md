@@ -24,6 +24,7 @@ LeetCode
 | 1 | [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Arranging_Coins.java) |
 | 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Binary_Tree_Level_Order_Traversal_II.java) |
 | 3 | [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Prison_Cells_After_N_Days.java) |
+| 4 | [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Ugly_Number_II.java) |
 
 
 ## June 2020 Challenge
