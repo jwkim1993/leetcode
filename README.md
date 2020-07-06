@@ -25,9 +25,13 @@ LeetCode
 | 3 | [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Prison_Cells_After_N_Days.java) |
 | 4 | [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Ugly_Number_II.java) |
 | 5 | [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Hamming_Distance.java) |
+| 6 | [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Plus_One.java) |
 
 
 ## June 2020 Challenge
+
+<details>
+<summary>Show June 2020 Challenge History</summary>
 
 | # | Title | Solution |
 |---| ----- | -------- |
@@ -61,5 +65,7 @@ LeetCode
 | 28 | [Reconstruct Itinerary](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/542/week-4-june-22nd-june-28th/3374/) | [JAVA](./algorithms/java/Jun.2020.challenge/Challenge_Reconstruct_Itinerary.java) |
 | 29 | [Unique Paths](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3375/) | [JAVA](./algorithms/java/Jun.2020.challenge/Challenge_Unique_Paths.java) |
 | 30 | [Word Search II](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/543/week-5-june-29th-june-30th/3376/) | [JAVA](./algorithms/java/Jun.2020.challenge/Challenge_Word_Search_II.java) |
+
+</details>
 
 This repository references [haoel's leetcode](https://github.com/haoel/leetcode)
