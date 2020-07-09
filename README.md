@@ -27,6 +27,9 @@ LeetCode
 | 4 | [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Ugly_Number_II.java) |
 | 5 | [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Hamming_Distance.java) |
 | 6 | [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Plus_One.java) |
+| 7 | [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) | To Be Uploaded |
+| 8 | [3 Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/) | Not Solved |
+| 9 | [Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Maximum_Width_of_Binary_Tree.java) |
 
 
 ## June 2020 Challenge
