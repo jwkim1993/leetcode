@@ -32,6 +32,7 @@ LeetCode
 | 9 | [Maximum Width of Binary Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Maximum_Width_of_Binary_Tree.java) |
 | 10 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Flatten_a_Multilevel_Doubly_Linked_List.java) |
 | 11 | [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Subsets.java) |
+| 12 | [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Reverse_Bits.java) |
 
 
 ## June 2020 Challenge
