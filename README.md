@@ -34,7 +34,10 @@ LeetCode
 | 12 | [Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Reverse_Bits.java) |
 | 13 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Same_Tree.java) |
 | 14 | [Angle Between Hands of a Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Angle_Between_Hands_of_a_Clock.java) |
-
+| 15 | [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Reverse_Words_in_a_String.java) |
+| 16 | [Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Pow_x_n.java) |
+| 17 | [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Top_K_Frequent_Elements.java) |
+| 18 | [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Course_Schedule_II.java) |
 
 ## June 2020 Challenge
 
