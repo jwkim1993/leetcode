@@ -39,6 +39,7 @@ LeetCode
 | 16 | [Pow(x,n)](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Pow_x_n.java) |
 | 17 | [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Top_K_Frequent_Elements.java) |
 | 18 | [Course Schedule II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Course_Schedule_II.java) |
+| 19 | [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Add_Binary.java) |
 
 ## June 2020 Challenge
 
