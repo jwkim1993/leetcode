@@ -41,6 +41,7 @@ LeetCode
 | 19 | [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Add_Binary.java) |
 | 20 | [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Remove_Linked_List_Elements.java) |
 | 21 | [Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Word_Search.java) |
+| 22 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Binary_Tree_Zigzag_Level_Order_Traversal.java) |
 
 ## June 2020 Challenge
 
