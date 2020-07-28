@@ -48,6 +48,7 @@ LeetCode
 | 25 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Find_Minimum_in_Rotated_Sorted_Array_II.java) |
 | 26 | [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Add_Digits.java) |
 | 27 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
+| 28 | [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Task_Scheduler.java) |
 
 ## June 2020 Challenge
 
