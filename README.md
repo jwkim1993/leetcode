@@ -51,6 +51,9 @@ LeetCode
 | 26 | [Add Digits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Add_Digits.java) |
 | 27 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
 | 28 | [Task Scheduler](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Task_Scheduler.java) |
+| 29 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) | Not Solved |
+| 30 | [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) | Not Solved |
+| 31 | [Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Climbing_Stairs.java) |
 
 ## June 2020 Challenge
 
