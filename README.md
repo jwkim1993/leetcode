@@ -19,6 +19,13 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [JAVA](./algorithms/java/1409_Queries_on_a_Permutation_With_Key.java), [Python](./algorithms/python/1409_Queries_on_a_Permutation_With_Key.py) |Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JAVA](./algorithms/java/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java) |EASY|
 
+## August 2020 Challenge
+
+| # | Title | Solution |
+|---| ----- | -------- |
+| 1 | [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Detect_Capital.java) |
+| 2 | [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Design_HashSet.java) |
+
 ## July 2020 Challenge
 
 | # | Title | Solution |
