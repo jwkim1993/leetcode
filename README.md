@@ -25,6 +25,7 @@ LeetCode
 |---| ----- | -------- |
 | 1 | [Detect Capital](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3409/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Detect_Capital.java) |
 | 2 | [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Design_HashSet.java) |
+| 3 | [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Valid_Palindrome.java)
 
 ## July 2020 Challenge
 
