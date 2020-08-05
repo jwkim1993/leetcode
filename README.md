@@ -33,6 +33,9 @@ LeetCode
 
 ## July 2020 Challenge
 
+<details open>
+<summary>Show July 2020 Challenge History</summary>
+
 | # | Title | Solution |
 |---| ----- | -------- |
 | 1 | [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Arranging_Coins.java) |
@@ -66,6 +69,8 @@ LeetCode
 | 29 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) | Not Solved |
 | 30 | [Word Break II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) | Not Solved |
 | 31 | [Climbing Stairs](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/) | [JAVA](./algorithms/java/Jul.2020.challenge/Challenge_Climbing_Stairs.java) |
+
+</details>
 
 ## June 2020 Challenge
 
