@@ -11,8 +11,10 @@ LeetCode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [JAVA](./algorithms/java/213_House_Robber_II.java) |Medium|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [JAVA](./algorithms/java/252_Meeting_Rooms.java) |Easy| 
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [JAVA](./algorithms/java/303_Range_Sum_Query_Immutable.java), [Python](./algorithms/python/303_Range_Sum_Query_Immutable.py) |Easy|
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [JAVA](./algorithms/java/339_Nested_List_Weight_Sum.java) |Easy|
 |436|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/explore/interview/card/google/59/array-and-strings/436/) :lock: | [JAVA](./algorithms/java/436_Read_N_Characters_Given_Read4_Call_Multiple_times.java), [Python](./algorithms/python/436_Read_N_Characters_Given_Read4_Call_Multiple_times.py) |Hard|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) :lock: | [JAVA](./algorithms/java/604_Design_Compressed_String_Iterator.java) |Easy|
+|833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) :lock: | [JAVA](./algorithms/java/833_Find_And_Replace_in_String.java) |Medium|
 |1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) :lock: | [JAVA](./algorithms/java/1055_Shortest_Way_to_Form_String.java) |Medium|
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [JAVA](./algorithms/java/1222_Queens_That_Can_Attack_the_King.java) |Medium|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [Python](./algorithms/python/1314_Matrix_Block_Sum.py) |Medium|
