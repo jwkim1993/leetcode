@@ -27,6 +27,7 @@ LeetCode
 | 2 | [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Design_HashSet.java) |
 | 3 | [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Valid_Palindrome.java) |
 | 4 | [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Power_of_Four.java) |
+| 5 | [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Add_and_Search_Word_Data_Structure_Design.java) |
 
 ## July 2020 Challenge
 
