@@ -33,6 +33,7 @@ LeetCode
 | 6 | [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Find_All_Duplicates_in_an_Array.java) |
 | 7 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Vertical_Order_Traversal_of_a_Binary_Tree.java) |
 | 8 | [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Path_Sum_III.java) |
+| 9 | [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Rotting_Oranges.java) |
 
 ## July 2020 Challenge
 
