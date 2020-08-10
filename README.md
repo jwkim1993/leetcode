@@ -34,6 +34,7 @@ LeetCode
 | 7 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Vertical_Order_Traversal_of_a_Binary_Tree.java) |
 | 8 | [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Path_Sum_III.java) |
 | 9 | [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Rotting_Oranges.java) |
+| 10 | [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Excel_Sheet_Column_Number.java) |
 
 ## July 2020 Challenge
 
