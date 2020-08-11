@@ -35,6 +35,7 @@ LeetCode
 | 8 | [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Path_Sum_III.java) |
 | 9 | [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Rotting_Oranges.java) |
 | 10 | [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Excel_Sheet_Column_Number.java) |
+| 11 | [H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_H_Index.java) |
 
 ## July 2020 Challenge
 
