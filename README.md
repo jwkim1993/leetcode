@@ -38,6 +38,7 @@ LeetCode
 | 11 | [H-Index](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3420/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_H_Index.java) |
 | 12 | [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Pascals_Triangle_II.java) |
 | 13 | [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Iterator_for_Combination.java) |
+| 14 | [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Longest_Palindrome.java) |
 
 ## July 2020 Challenge
 
