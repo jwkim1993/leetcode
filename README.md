@@ -39,6 +39,7 @@ LeetCode
 | 12 | [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Pascals_Triangle_II.java) |
 | 13 | [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Iterator_for_Combination.java) |
 | 14 | [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Longest_Palindrome.java) |
+| 15 | [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Non_Overlapping_Intervals.java) |
 
 ## July 2020 Challenge
 
