@@ -40,6 +40,9 @@ LeetCode
 | 13 | [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Iterator_for_Combination.java) |
 | 14 | [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Longest_Palindrome.java) |
 | 15 | [Non-overlapping Intervals](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3425/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Non_Overlapping_Intervals.java) |
+| 16 | [Best Time to Buy and Sell Stocks III]() | To be uploaded |
+| 17 | [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Distribute_Candies_to_People.java) |
+| 18 | [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Numbers_With_Same_Consecutive_Differences.java) |
 
 ## July 2020 Challenge
 
