@@ -44,6 +44,8 @@ LeetCode
 | 17 | [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Distribute_Candies_to_People.java) |
 | 18 | [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Numbers_With_Same_Consecutive_Differences.java) |
 | 19 | [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Goat_Latin.java) |
+| 20 | [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Reorder_List.java) |
+| 21 | [Sort Array by Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/) | [JAVA](./algorithms/java/Aug.2020.challenge/Challenge_Sort_Array_by_Parity.java) |
 
 ## July 2020 Challenge
 
