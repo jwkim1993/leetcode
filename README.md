@@ -21,6 +21,12 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [JAVA](./algorithms/java/1409_Queries_on_a_Permutation_With_Key.java), [Python](./algorithms/python/1409_Queries_on_a_Permutation_With_Key.py) |Medium|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [JAVA](./algorithms/java/1475_Final_Prices_With_a_Special_Discount_in_a_Shop.java) |EASY|
 
+## October 2020 Challenge
+
+| # | Title | Solution |
+|---| ----- | -------- |
+| 1 | [Number of Recent Calls](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) | [Go](./algorithms/golang/Oct.2020.challenge/Number_of_Recent_Calls.go) |
+
 ## August 2020 Challenge
 
 | # | Title | Solution |
