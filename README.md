@@ -26,6 +26,8 @@ LeetCode
 | # | Title | Solution |
 |---| ----- | -------- |
 | 1 | [Number of Recent Calls](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3480/) | [Go](./algorithms/golang/Oct.2020.challenge/Number_of_Recent_Calls.go) |
+| 2 | [Combination Sum](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3481/) | TO Be Solved |
+| 3 | [K-diff Pairs in an Array](https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/559/week-1-october-1st-october-7th/3482/) | [Go](./algorithms/golang/Oct.2020.challenge/K-diff_Pairs_in_an_Array.go) |
 
 ## August 2020 Challenge
 
