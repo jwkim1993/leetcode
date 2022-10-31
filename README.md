@@ -7,8 +7,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Go](./algorithms/golang/neetcode/125.go) |Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) :lock: | [JAVA](./algorithms/java/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java) |Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [JAVA](./algorithms/java/213_House_Robber_II.java) |Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Go](./algorithms/golang/neetcode/217.go) |Easy|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) :lock: | [JAVA](./algorithms/java/252_Meeting_Rooms.java) |Easy| 
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [JAVA](./algorithms/java/303_Range_Sum_Query_Immutable.java), [Python](./algorithms/python/303_Range_Sum_Query_Immutable.py) |Easy|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) :lock: | [JAVA](./algorithms/java/339_Nested_List_Weight_Sum.java) |Easy|
